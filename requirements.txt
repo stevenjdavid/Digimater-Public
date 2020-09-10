@@ -1,0 +1,17 @@
+Flask
+PyYAML
+selenium
+requests
+gunicorn
+flask_restx
+werkzeug
+flask_sqlalchemy
+flask_heroku
+psycopg2
+Flask-SSLify
+python-jose-cryptodome
+jsonify
+flask-cors
+flask_jwt_extended
+redis
+beautifulsoup4

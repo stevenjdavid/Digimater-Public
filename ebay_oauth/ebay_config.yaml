@@ -1,0 +1,13 @@
+name: ebay-config
+
+api.sandbox.ebay.com:
+    appid: StevenDa-website-SBX-27f47136f-8e3cb4ae
+    certid: SBX-7f47136fdcf5-2cf0-48ca-b4e5-9cb1
+    devid: 9ea6002d-69cf-4c20-8841-f1a1b15f271a
+    redirecturi: Steven_David-StevenDa-websit-ylvmkk
+
+api.ebay.com:
+    appid: <appid-from-developer-portal>
+    certid: <certid-from-developer-portal>
+    devid: <devid-from-developer-portal>
+    redirecturi: <redirect_uri-from-developer-portal>
